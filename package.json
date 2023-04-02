@@ -1,0 +1,19 @@
+{
+  "name": "api-graph",
+  "version": "1.0.0",
+  "description": "Extract specific fields from data returned by an API endpoint. It works in a similar way to GraphQL, where you can specify exactly what fields you want to receive in the response.",
+  "author": {
+    "name": "ahmed sudani",
+    "email": "ahmed.sudani570@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-sudani/api-graph.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "graphQl",
+    "rest api",
+    "data extraction"
+  ]
+}
